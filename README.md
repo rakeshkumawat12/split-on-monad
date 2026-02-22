@@ -104,15 +104,23 @@ you can't afford $40 in gas fees. That math never works.
 
 ## The Stack (For Those Who Want to Know)
 
-Next.js 14      — Frontend framework
-React 18        — UI rendering
-Wagmi v2        — Blockchain hooks
-Viem v2         — Ethereum utilities
-RainbowKit v2   — Wallet connection
-Zustand         — Local state
-Solidity 0.8.20 — Smart contracts
-Hardhat         — Contract toolchain
-Monad Testnet   — Chain ID 10143
+Next.js 14      - Frontend framework
+
+React 18        - UI rendering
+
+Wagmi v2        - Blockchain hooks
+
+Viem v2         - Ethereum utilities
+
+RainbowKit v2   - Wallet connection
+
+Zustand         - Local state
+
+Solidity 0.8.20 - Smart contracts
+
+Hardhat         - Contract toolchain
+
+Monad Testnet   - Chain ID 10143
 
 
 Two contracts. That's it.
