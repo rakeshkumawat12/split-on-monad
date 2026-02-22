@@ -74,6 +74,80 @@
       "artifacts": [
         "ExpenseGroupFactory"
       ]
+    },
+    "/Users/rakeshkumawat/Developer/DEVELOPMENT/hackathon-projects/split/split-on-monad/contracts/contracts/ExpenseGroup.sol": {
+      "lastModificationDate": 1771743383555,
+      "contentHash": "ee5f61099ecf86587be93a985e4d41e3",
+      "sourceName": "contracts/ExpenseGroup.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ExpenseGroup"
+      ]
+    },
+    "/Users/rakeshkumawat/Developer/DEVELOPMENT/hackathon-projects/split/split-on-monad/contracts/contracts/ExpenseGroupFactory.sol": {
+      "lastModificationDate": 1771743383555,
+      "contentHash": "a5725f2b9750c09585c2d0034948a4d7",
+      "sourceName": "contracts/ExpenseGroupFactory.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./ExpenseGroup.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ExpenseGroupFactory"
+      ]
     }
   }
 }

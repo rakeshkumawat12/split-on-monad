@@ -6,4 +6,3 @@ contracts/.env
 contracts/artifacts/
 contracts/cache/
 contracts/typechain-types/
-contracts/node_modules/
